@@ -1,5 +1,9 @@
 # Bingo
 
+## Live preview
+
+[https://game-bingo.vercel.app/](https://game-bingo.vercel.app/)
+
 ## Screenshots
 
 Board display durring play
